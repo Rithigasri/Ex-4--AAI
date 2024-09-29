@@ -1,4 +1,4 @@
-## EXPERIMENT 03: Implementation of Hidden Markov Model
+## EXPERIMENT 04: Implementation of Hidden Markov Model
 ### NAME: Rithiga Sri B
 ### REGISTER NO: 212221230083
 ### DATE: 12.09.2024
